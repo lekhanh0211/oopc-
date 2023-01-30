@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\OOP\PizzaStore\obj\Debug\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\PizzaStore\bin\Debug\PizzaStore.exe.config
+C:\Users\Admin\source\repos\OOP\PizzaStore\bin\Debug\PizzaStore.exe
+C:\Users\Admin\source\repos\OOP\PizzaStore\bin\Debug\PizzaStore.pdb
+C:\Users\Admin\source\repos\OOP\PizzaStore\obj\Debug\PizzaStore.exe
+C:\Users\Admin\source\repos\OOP\PizzaStore\obj\Debug\PizzaStore.pdb
